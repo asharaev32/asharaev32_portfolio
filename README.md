@@ -14,6 +14,7 @@ List of projects:
 2 - **"Кластеризация клиентов фитнес-центра"** с использованием машинного обучения в рамках борьбы с оттоком
 
 *Использованные библиотеки Python: pandas, matplotlib, numpy, seaborn, itertools, **sklearn***
+
 Ключевые слова: KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression
 
 
