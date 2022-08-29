@@ -5,3 +5,4 @@
 Использованные библиотеки Python: pandas, matplotlib, numpy, seaborn, scipy, datetime
 
 Ссылка на подготовелнный дашборд: https://public.tableau.com/app/profile/anton7450/viz/_16582409492030/Dashboard1#1 
+![image](https://user-images.githubusercontent.com/110079705/187250070-a0a5e801-34f8-44fa-9b51-e313bfc62a67.png)
