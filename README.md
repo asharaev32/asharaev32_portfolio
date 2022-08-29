@@ -1,6 +1,5 @@
 
-# Educational and other projects which were realised by me.
-# asharaev32_portfolio
+# Educational and other projects which were developed by me.
 
 In case of any questions or proposals, please contact tg: asharaev32
 
