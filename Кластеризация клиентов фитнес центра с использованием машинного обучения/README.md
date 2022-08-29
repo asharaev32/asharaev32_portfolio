@@ -1,3 +1,9 @@
 Кластеризация клиентов фитнес-центра с использованием машинного обучения в рамках борьбы с оттоком 
 
 Использованные библиотеки Python: pandas, matplotlib, numpy, seaborn, itertools, **sklearn**
+
+Построенная дендрограмма
+![image](https://user-images.githubusercontent.com/110079705/187231419-117ce181-59d5-4cfe-980d-b960ef1c7d14.png)
+
+Построенная матрица корреляции
+![image](https://user-images.githubusercontent.com/110079705/187231715-d0be15f1-a10c-43b5-bc84-b30d52de0bc0.png)
