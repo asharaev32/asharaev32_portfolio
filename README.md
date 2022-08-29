@@ -1,7 +1,7 @@
 
-# Educational and other projects which were developed by me. Please open the attached .ipynb files to fully acquaint yourself with the project.
+#### Educational and other projects which were developed by me. Please open the attached .ipynb files to fully acquaint yourself with the project. ###
 
-# В данном разделе находятся реализованные мной учебные и не только проекты. Используйте ссылки-названия для быстрого перехода в заинтересовавший проект. Пожалуйста, не забывайте скачивать .ipynb и презентации, чтобы получить полное представление о проекте. Всегда рад обсудить все возникшие вопросы и предложения по улучшению
+#### В данном разделе находятся реализованные мной учебные и не только проекты. Используйте ссылки-названия для быстрого перехода в заинтересовавший проект. Пожалуйста, не забывайте скачивать .ipynb и презентации, чтобы получить полное представление о проекте. Всегда рад обсудить все возникшие вопросы и предложения по улучшению ###
 
 In case of any questions or proposals, please contact tg: asharaev32
 
